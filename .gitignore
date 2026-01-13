@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# VScode settings
+.vscode/*
+!.vscode/launch.json
+!.vscode/extensions.json
