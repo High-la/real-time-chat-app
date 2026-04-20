@@ -1,2 +1,3 @@
 # real-time-chat-app
-Real Time Chat Application 
+
+This project is currently under active development.
